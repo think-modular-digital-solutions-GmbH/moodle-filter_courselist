@@ -23,7 +23,9 @@
 
 namespace filter_courselist;
 
+use core_course_category;
 use core_course\customfield\course_handler;
+
 
 /**
  * Implementation of the Moodle filter API for the Course list filter.
